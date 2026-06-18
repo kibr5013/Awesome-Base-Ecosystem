@@ -11,6 +11,7 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 - DEX
 - Bridge
 - Wallet
+- Gaming
  
 ---
 
@@ -44,6 +45,14 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# Gaming
+
+| Project | Description |
+|---------|-------------|
+| [Block Lottos](https://blocklottos.com/base-future-ledger) | On-chain lottery on Base using USDC tickets, wallet-signed entries, public draw data, and weekly draws |
+
+---
+
 # Why Base?
 
 - Fast transactions
@@ -74,4 +83,3 @@ Feel free to open a pull request to add new Base ecosystem projects.
 # License
 
 MIT License
-
