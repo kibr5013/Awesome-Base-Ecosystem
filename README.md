@@ -11,6 +11,7 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 - DEX
 - Bridge
 - Wallet
+- AI & Creator Infrastructure
  
 ---
 
@@ -44,6 +45,14 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# AI & Creator Infrastructure
+
+| Project | Description |
+|---------|-------------|
+| [Suede AI](https://suedeai.ai/) | Programmable IP and creator-ownership infrastructure using Base USDC for x402-payable music, video, rights lookup, and agent-commerce workflows |
+
+---
+
 # Why Base?
 
 - Fast transactions
@@ -74,4 +83,3 @@ Feel free to open a pull request to add new Base ecosystem projects.
 # License
 
 MIT License
-
